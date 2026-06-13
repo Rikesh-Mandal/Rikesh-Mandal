@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Rikesh 👋
 
-<!--
-**Rikesh-Mandal/Rikesh-Mandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | MSc AI (Distinction) | AI-Native Developer
 
-Here are some ideas to get you started:
+I build backend systems and ML/computer vision projects, and use AI coding agents (Claude Code, GitHub Copilot, Cursor) daily to ship faster and debug smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Recent projects**
+- 🧊 [Monocular Image-to-3D Reconstruction](https://github.com/Rikesh-Mandal/ImageTo3D) — PyTorch, ResNet50, Open3D
+- 🤟 [Sign Language-to-Speech Glove](link) — Arduino, IoT, Scikit-learn
+- 🐾 [Animal Image Classifier](https://github.com/Rikesh-Mandal/image-classification-system) — custom CNN, 79.5% accuracy
+
+**Background:** Java/Spring Boot REST APIs for a fintech (real-time card authorisation).
+
+📫 rikeshmandal26@gmail.com | [LinkedIn](your link) | [Portfolio](your link)
