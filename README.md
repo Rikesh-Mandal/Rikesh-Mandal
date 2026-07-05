@@ -7,7 +7,7 @@ I build backend systems and ML/computer vision projects, and use AI coding agent
 **🔧 Recent projects**
 - 🧊 [Monocular Image-to-3D Reconstruction](https://github.com/Rikesh-Mandal/ImageTo3D) — PyTorch, ResNet50, Open3D
 - 🤟 [Sign Language-to-Speech Glove](https://github.com/Rikesh-Mandal/SignLanguageToSpeech) — Arduino, IoT, Scikit-learn
-- 🐾 [Animal Image Classifier](git@github.com:Rikesh-Mandal/AnimalImageClassifier.git) — custom CNN, 79.5% accuracy
+- 🐾 [Animal Image Classifier](https://github.com/Rikesh-Mandal/AnimalImageClassifier) — custom CNN, 79.5% accuracy
 
 **Background:** Java/Spring Boot REST APIs for a fintech (real-time card authorisation).
 
